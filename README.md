@@ -1,2 +1,2 @@
 # docs
-Public Docs Repository
+All Common Docs are organized into this public docs repository
